@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.10.0",
+    "pdf-lib": "^1.17.1",
+    "stripe": "^17.7.0"
+  }
+}
